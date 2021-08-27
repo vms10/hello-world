@@ -1,5 +1,5 @@
 # Foobar
-
+Esto es un ejemplo de README.md para tener para futuros proyectos.
 Foobar is a Python library for dealing with word pluralization.
 
 <p align="center">
